@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaterialTab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab1">Kamu ada di Tab1</string>
+    <string name="tab2">Kamu ada di Tab2</string>
+    <string name="clickme">Click Me !</string>
+
+</resources>
